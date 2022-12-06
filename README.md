@@ -1,4 +1,8 @@
-### Computer Science and Mathematics Student
+
+#     Hi there 👋, I'm NIV KOTEK
+
+
+###  Computer Science student at Ariel University
 <!--
 **nivk99/nivk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
