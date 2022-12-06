@@ -10,6 +10,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nivk99&show_icons=true&theme=radical)
 
+
+![](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47indn3po1qhvw2hpc6a73io64d6vkt7y5y7itooxe&rid=200w.webp&ct=g)
+
 <!--
 **nivk99/nivk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
