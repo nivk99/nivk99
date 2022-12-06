@@ -3,7 +3,7 @@
 
 Computer Science student at Ariel University
 
-I'm experienced in Java, Python, C ,C++ and c#
+I'm experienced in Java, Python, Racket, C ,C++ and C#
 
 📫 How to reach me: nivk99@gmail.com
 
