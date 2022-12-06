@@ -1,9 +1,9 @@
 
 #                                                                        Hi there 👋, I'm NIV KOTEK
 
-
 ###  Computer Science student at Ariel University
 
+![](https://univerlist.com/media/images/blog/compscience.jpg)
 
 ### 📈 Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivk99&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
