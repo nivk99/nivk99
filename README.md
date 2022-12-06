@@ -1,8 +1,8 @@
 
 #                                                                       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+NIV+KOTEK)](https://git.io/typing-svg)
 
-###  Computer Science student at Ariel University
-
+Computer Science student at Ariel University
+I'm experienced in Java, Python, C ,C++ and c#
 📫 How to reach me: nivk99@gmail.com
 
 ![](https://univerlist.com/media/images/blog/compscience.jpg)
