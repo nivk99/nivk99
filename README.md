@@ -3,6 +3,8 @@
 
 ###  Computer Science student at Ariel University
 
+📫 How to reach me: nivk99@gmail.com
+
 ![](https://univerlist.com/media/images/blog/compscience.jpg)
 
 ### 📈 Github Stats:
