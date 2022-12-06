@@ -1,5 +1,5 @@
 
-#                                                                        Hi there 👋, I'm NIV KOTEK
+#                                                                       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+NIV+KOTEK)](https://git.io/typing-svg)
 
 ###  Computer Science student at Ariel University
 
