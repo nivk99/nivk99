@@ -1,9 +1,12 @@
 
 #                                                                       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+NIV+KOTEK)](https://git.io/typing-svg)
  
- B.Sc. Computer Science Graduate
 
-I'm experienced in Java, Python, Racket, C ,C++ and C#
+🎓 B.Sc. Computer Science and Mathematics.
+
+📌 Scroll down to see my Pinned Repositories.
+
+📫 How to reach me: Nivk99@gmail.com
 
 
 <h3> 📫 Contact Me:</h3>
