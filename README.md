@@ -1,7 +1,7 @@
 
 #                                                                       [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+NIV+KOTEK)](https://git.io/typing-svg)
  
-Computer Science student at Ariel University
+ B.Sc. Computer Science Graduate
 
 I'm experienced in Java, Python, Racket, C ,C++ and C#
 
